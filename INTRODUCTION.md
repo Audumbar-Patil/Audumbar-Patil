@@ -1,9 +1,9 @@
-My name is Audumbar Patil 
+My name is Audumbar Patil. 
 I'm a computer science enthusiast, learning every now and then. 
 
 Main Topics Covered :- 
 
-1. Application Development 
+1. Software Development 
 2. Cyber Security 
 3. Crypto Currency 
 
